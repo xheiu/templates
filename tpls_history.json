@@ -4,7 +4,7 @@
         "OPENFRP签到": {
             "name": "openfrp签到",
             "author": "heiu",
-            "url": "https://raw.githubusercontent.com/xheiu/templates/master/openfrp签到.har",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/openfrp签到.har",
             "update": false,
             "comments": "账号+密码<br>每天签到，有签到后奖励提示<br><url=https://www.openfrp.net/>链接</url>",
             "filename": "openfrp签到.har",
@@ -16,7 +16,7 @@
         "coco云梯自动签到": {
             "name": "coco云梯自动签到",
             "author": "heiu",
-            "url": "https://raw.githubusercontent.com/xheiu/templates/master/coco云梯自动签到.har",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/coco云梯自动签到.har",
             "update": false,
             "comments": "账号+密码<br>每天签到，有签到后奖励提示，网址可能会不定时更新<br><url=http://www.coco345.buzz/>链接</url>",
             "filename": "coco云梯自动签到.har",
