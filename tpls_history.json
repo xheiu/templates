@@ -6,7 +6,7 @@
             "author": "heiu",
             "url": "https://raw.githubusercontent.com/xheiu/templates/main/openfrp签到.har",
             "update": false,
-            "comments": "账号+密码<br>每天签到，有签到后奖励提示<br><url=https://www.openfrp.net/>链接</url>",
+            "comments": "账号+密码<br>每天签到，有签到后奖励提示<br>https://www.openfrp.net/",
             "filename": "openfrp签到.har",
             "content": "",
             "date": "2023-01-20 18:06:09",
@@ -18,11 +18,11 @@
             "author": "heiu",
             "url": "https://raw.githubusercontent.com/xheiu/templates/main/coco云梯自动签到.har",
             "update": false,
-            "comments": "账号+密码<br>每天签到，有签到后奖励提示，网址可能会不定时更新<br><url=http://www.coco345.buzz/>链接</url>",
+            "comments": "账号+密码<br>每天签到，有签到后奖励提示，网址可能会不定时更新<br>http://www.coco345.buzz/",
             "filename": "coco云梯自动签到.har",
             "content": "",
             "date": "2023-01-20 18:39:46",
-            "version": "20230120",
+            "version": "20230119",
             "commenturl": "https://github.com/xheiu/templates/issues/2"
         }		
     }
