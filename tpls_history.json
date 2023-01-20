@@ -13,13 +13,13 @@
             "version": "20230120",
             "commenturl": "https://github.com/xheiu/templates/issues/1"
         },
-        "coco云梯签到": {
-            "name": "coco云梯签到",
+        "coco云梯自动签到": {
+            "name": "coco云梯自动签到",
             "author": "heiu",
             "url": "https://raw.githubusercontent.com/xheiu/templates/master/coco云梯自动签到.har",
             "update": false,
             "comments": "账号+密码<br>每天签到，有签到后奖励提示，网址可能会不定时更新<br><url=http://www.coco345.buzz/>链接</url>",
-            "filename": "coco云梯签到.har",
+            "filename": "coco云梯自动签到.har",
             "content": "",
             "date": "2023-01-20 18:39:46",
             "version": "20230120",
