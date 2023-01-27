@@ -24,6 +24,18 @@
             "date": "2023-01-20 18:39:46",
             "version": "20230119",
             "commenturl": "https://github.com/xheiu/templates/issues/2"
-        }		
+        },
+		"嘉立创签到-cookie": {
+            "name": "嘉立创签到-cookie",
+            "author": "heiu",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/嘉立创签到-cookie.har",
+            "update": false,
+            "comments": "嘉立创签到,coookie版，后面会完善账号版本<br>https://oshwhub.com/",
+            "filename": "嘉立创签到-cookie",
+            "content": "",
+            "date": "2023-01-27 18:13:07",
+            "version": "20230127",
+            "commenturl": "https://github.com/xheiu/templates/issues/3"
+        }	
     }
 }
