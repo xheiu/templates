@@ -26,12 +26,12 @@
             "commenturl": "https://github.com/xheiu/templates/issues/2"
         },
         "嘉立创签到-cookie": {
-            "name": "嘉立创签到-cookie",
+            "name": "嘉立创签到cookie",
             "author": "heiu",
-            "url": "https://raw.githubusercontent.com/xheiu/templates/main/嘉立创签到-cookie.har",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/嘉立创签到cookie.har",
             "update": false,
             "comments": "嘉立创签到,coookie版，后面会完善账号版本<br>https://oshwhub.com/",
-            "filename": "嘉立创签到-cookie.har",
+            "filename": "嘉立创签到cookie.har",
             "content": "",
             "date": "2023-01-27 18:13:07",
             "version": "20230127",
