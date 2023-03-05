@@ -5,7 +5,7 @@
             "name": "openfrp签到",
             "author": "heiu",
             "url": "https://raw.githubusercontent.com/xheiu/templates/main/openfrp签到.har",
-            "update": false,
+            "update": true,
             "comments": "账号+密码<br>每天签到，有签到后奖励提示<br>https://www.openfrp.net/",
             "filename": "openfrp签到.har",
             "content": "",
@@ -36,6 +36,17 @@
             "date": "2023-01-27 18:13:07",
             "version": "20230127",
             "commenturl": "https://github.com/xheiu/templates/issues/3"
-        }	
+        },
+        "MT论坛签到": {
+            "name": "MT论坛签到",
+            "author": "heiu",
+            "url": "https://raw.githubusercontent.com/xheiu/templates/main/MT论坛签到.har",
+            "update": false,
+            "comments": "MT论坛签到,账户版，后面会完善账号版本<br>https://bbs.binmt.cc/",
+            "filename": "MT论坛签到.har",
+            "content": "",
+            "date": "2023-03-05 16:48:07",
+            "version": "20230305",
+            "commenturl": "https://github.com/xheiu/templates/issues/4"
     }
 }
